@@ -1,5 +1,7 @@
 # mycode
 some bits and pieces code 
 
-## bloom_filter 
-[中文](https://zhongsx.github.io/2016/09/11/bloom-filter)
+## 添加 bloom filter 布隆过滤算法 实现代码（未测试）
+
+[BLOG](https://zhongsx.github.io)
+
