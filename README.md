@@ -6,5 +6,5 @@ some bits and pieces code
 
 
 ## 文章介绍
-[BLOG](https://zhongsx.github.io)
+[Bloom Filter 布隆过滤算法](https://zhongsx.github.io/2016/09/11/bloom-filter/)
 
